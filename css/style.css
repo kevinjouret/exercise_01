@@ -319,7 +319,7 @@ form button:hover {
 /* -------- FOOTER -------- */
 
 footer {
-  background-color: rgba(209, 209, 209, 0.11);
+  background-color: #ececec;
   color: grey;
   font-size: 13px;
   padding: 40px 0 50px 0;
